@@ -32,3 +32,6 @@ Let's build the musical future together! To contribute:
 3. **Resonate:** Push changes to your fork and open a pull request.
 4. **Harmony:** Await feedback and let's create something amazing!
 
+## Hosted link
+
+https://monishgithub123.github.io/MUSIC-PLAYER/
